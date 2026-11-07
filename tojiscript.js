@@ -4,6 +4,7 @@
         "vivosports.live",
         "www.vivosports.live",
        "ehdbsduvsddhbhbsd.blogspot.com",
+        "thwxhx.github.io",
         "localhost" // Keep for testing purposes
     ];
 
